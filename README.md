@@ -2,7 +2,12 @@
 Music Sequencer Mixed Reality Software
 Made for VTHACKS 2019
 
-Gence Yalcin, Woo Jin An Tilden Fernandez, Nicky Huynh
+## Creators
+
+* Gence Yalcin
+* Woo Jin An
+* Tilden Fernandez
+* Nicky Huynh
 
 Software Tools Used:
 Unity, Visual Studio 2017, C#, Photoshop CC, SolidWorks, Windows 10 SDK, Windows Mixed Reality Package.
