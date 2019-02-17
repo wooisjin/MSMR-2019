@@ -2,7 +2,7 @@
 Music Sequencer Mixed Reality Software
 Made for VTHACKS 2019
 
-## Creators
+## Contributors
 
 * Gence Yalcin
 * Woo Jin An
