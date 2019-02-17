@@ -31,9 +31,9 @@ The system was built to be used with the [Microsoft HoloLens](https://www.micros
 
 [Windows 10 SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk) - Coding SDK
 
-Windows Mixed Reality Package
+[Windows Mixed Reality Package](https://github.com/Microsoft/MixedRealityToolkit-Unity) - Scripts and Components Package 
 
-C# Language
+[C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 ## Installation:
