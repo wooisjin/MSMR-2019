@@ -3,7 +3,7 @@
 
 This application is a mixed reality utility designed for the Microsoft HoloLens. It allows users to manipulate sounds and its individual beats for an easy experience of creating music. The sounds are consisted of guitar, piano, drums, bass, and user customized sounds that can be recorded inside the application through the HoloLens built-in microphone.
 
-This project was born from an interest in virtual, augmented, and mixed reality systems, as well as a passion for music. Digital music sequencers are a great way for amateurs and hobbyists to pursue their creativy interests, as well as for children and teenagers to explore music techonolgy. The goal of this project was to make a tool that would allow a user to be compeltely immersed in the music creation process, while also allowing for the exploration of mixed reality spaces.
+This project was born from an interest in virtual, augmented, and mixed reality systems, as well as a passion for music. Digital music sequencers are a great way for amateurs and hobbyists to pursue their creative interests, as well as for children and teenagers to explore music techonology. The goal of this project was to make a tool that would allow a user to be completely immersed in the music creation process, while also allowing for the exploration of mixed reality spaces.
 
 
 ## Authors
@@ -16,7 +16,7 @@ This project was born from an interest in virtual, augmented, and mixed reality 
 
 ## Hardware
 
-The system was build to be used with the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/), taking advantage of the onboard computer to allow users to make music anywhere, using the intuitive hand controls of the HoloLens. The music sequencer can also be used with other mixed reality systems including the [Window's Mixed Reality Headset](https://www8.hp.com/us/en/campaigns/mixedrealityheadset/overview.html).
+The system was built to be used with the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/), taking advantage of the onboard computer to allow users to make music anywhere, using the intuitive hand controls of the HoloLens. The music sequencer can also be used with other mixed reality systems including the [Window's Mixed Reality Headset](https://www8.hp.com/us/en/campaigns/mixedrealityheadset/overview.html).
 
 
 ## Built With:
@@ -36,6 +36,8 @@ Windows Mixed Reality Package
 C# Language
 
 
+## Installation:
+
 ## Functionality
 
 - Gaze Cursor:
@@ -45,7 +47,7 @@ C# Language
 - Gaze Press:
     Using one of the two "click" gesture defaulted in the HoloLens, we can click on mutable (button) objects to run its functionality.
 - Loops up to four bars (Default to two bars)
-    The music sequencer loops it's sound settings 
+    The music sequencer loops its sound settings 
 - Easy to use U.I. for fast learning
 - Four different instruments + eight customizable sounds
 - Sampling of custom sounds through a computer microphone
@@ -70,6 +72,6 @@ C# Language
 
 ## Acknowledgements
 
-Thanks to VTHacks for the chance to make this project.
+Thanks to VT Hacks for the chance to make this project.
 
-Thank you Microsoft for the opportunity to use their SDK and hardware!
+Thank you to Microsoft for the opportunity to use their SDK and hardware!
