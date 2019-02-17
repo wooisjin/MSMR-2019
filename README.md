@@ -71,3 +71,7 @@ The system was built to be used with the [Microsoft HoloLens](https://www.micros
 Thanks to VT Hacks for the chance to make this project.
 
 Thank you to Microsoft for the opportunity to use their SDK and hardware!
+
+## IMPORTANT
+
+Since the file size of the entire build was too big, we were unable to upload the nesscessary files to run the program. So, we included only the files needed to show the effort and the basics of functionality. All of the scripts in this Git are custom made by us.
