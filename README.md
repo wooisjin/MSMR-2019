@@ -9,8 +9,22 @@ Made for VTHACKS 2019
 * Tilden Fernandez
 * Nicky Huynh
 
-Software Tools Used:
-Unity, Visual Studio 2017, C#, Photoshop CC, SolidWorks, Windows 10 SDK, Windows Mixed Reality Package.
+## Made with:
+
+[Unity](https://github.com/Unity-Technologies) - The Main Engine
+
+[Visual Studio 2017](https://visualstudio.microsoft.com) - Coding IDE
+
+[Photoshop CC](https://www.adobe.com/products/photoshop.html) - Photo Editing Software
+
+[SolidWorks](https://www.solidworks.com) - CAD Modeling
+
+[Windows 10 SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk) - Coding SDK
+
+Windows Mixed Reality Package
+
+C#
+
 
 This application is a mixed reality utility designed for the Microsoft HoloLens. It allows users to manipulate sounds and its individual beats for an easy experience of creating music. The sounds are consisted of guitar, piano, drums, bass, and user customized sounds that can be recorded inside the application through the HoloLens built-in microphone.
 
