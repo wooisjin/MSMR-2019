@@ -14,12 +14,24 @@ Functionality
 Gaze Cursor
 Gaze Highlight
 Gaze Press
-Loops up to two bars
+Loops up to four bars (Default to two bars)
+Four different instruments + eight customizable sounds
+
+
 
 Buttons list:
-- Instrument Selection
+- Instrument Selection (Drums/Guitar/Piano/Bass/Sampler)
 - Note/Beat selection
 - Start/Pause All Sounds
 - Start/Pause Specified Instrument
+- Metronome On/Off
 - Record Custom Sound
-- Raise and 
+- Tempo Adjuster
+- Next/Previous Page
+- Up/Down Page
+  Maybes
+- Volume Control
+- Customize Number of Bars
+- Save/Load Functionality
+- 
+- 
