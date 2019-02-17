@@ -1,15 +1,17 @@
 # MSMR-2019
-Music Sequencer Mixed Reality Software
-Made for VTHACKS 2019
+Music Sequencer Mixed Reality Software made for VTHACKS 2019
 
-## Contributors
+This application is a mixed reality utility designed for the Microsoft HoloLens. It allows users to manipulate sounds and its individual beats for an easy experience of creating music. The sounds are consisted of guitar, piano, drums, bass, and user customized sounds that can be recorded inside the application through the HoloLens built-in microphone.
+
+
+## Authors
 
 * Gence Yalcin
 * Woo Jin An
 * Tilden Fernandez
 * Nicky Huynh
 
-## Made with:
+## Built With:
 
 [Unity](https://github.com/Unity-Technologies) - The Main Engine
 
@@ -24,10 +26,6 @@ Made for VTHACKS 2019
 Windows Mixed Reality Package
 
 C#
-
-
-This application is a mixed reality utility designed for the Microsoft HoloLens. It allows users to manipulate sounds and its individual beats for an easy experience of creating music. The sounds are consisted of guitar, piano, drums, bass, and user customized sounds that can be recorded inside the application through the HoloLens built-in microphone.
-
 
 
 Functionality
@@ -59,3 +57,9 @@ Buttons list:
 - Customize Number of Bars
 - Save/Load Functionality
 - 
+
+## Acknowledgements
+
+Thanks to VTHacks for the opportunity to make this project.
+
+Thank you Microsoft for the opportunity to use their SDK and hardware!
