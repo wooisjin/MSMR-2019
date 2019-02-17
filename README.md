@@ -40,15 +40,16 @@ C# Language
 
 - Gaze Cursor:
     A cursor is placed depending on the head position of the user.
-- Gaze Highlight
+- Gaze Highlight:
     If a cursor is on top of a mutable (button) object, it highlights the object.
-- Gaze Press
+- Gaze Press:
     Using one of the two "click" gesture defaulted in the HoloLens, we can click on mutable (button) objects to run its functionality.
 - Loops up to four bars (Default to two bars)
     The music sequencer loops it's sound settings 
+- Easy to use U.I. for fast learning
 - Four different instruments + eight customizable sounds
 - Sampling of custom sounds through a computer microphone
-- Easy to use U.I. for fast learning
+- Solo mode to highlight instruments
 
 
 ## Buttons list:
@@ -62,6 +63,8 @@ C# Language
 - Next/Previous Page
 - Up/Down Page
 - Customize Number of Bars
+- Solo
+- Sampling
 - Clear all
 
 
