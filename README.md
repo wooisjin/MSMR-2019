@@ -46,8 +46,7 @@ The system was built to be used with the [Microsoft HoloLens](https://www.micros
     If a cursor is on top of a mutable (button) object, it highlights the object.
 - Gaze Press:
     Using one of the two "click" gesture defaulted in the HoloLens, we can click on mutable (button) objects to run its functionality.
-- Loops up to four bars (Default to two bars)
-    The music sequencer loops its sound settings 
+- Msic sequencer loops its sound settings up to two bars.
 - Easy to use U.I. for fast learning
 - Four different instruments + eight customizable sounds
 - Sampling of custom sounds through a computer microphone
@@ -61,7 +60,6 @@ The system was built to be used with the [Microsoft HoloLens](https://www.micros
 - Start/Pause Specified Instrument
 - Metronome On/Off
 - Record Custom Sound
-- Tempo Adjuster
 - Next/Previous Page
 - Up/Down Page
 - Customize Number of Bars
