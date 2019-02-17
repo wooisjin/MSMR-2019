@@ -60,6 +60,6 @@ Buttons list:
 
 ## Acknowledgements
 
-Thanks to VTHacks for the opportunity to make this project.
+Thanks to VTHacks for the chance to make this project.
 
 Thank you Microsoft for the opportunity to use their SDK and hardware!
