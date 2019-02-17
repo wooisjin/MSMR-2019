@@ -3,7 +3,7 @@ Music Sequencer Mixed Reality Software made for VTHACKS 2019
 
 This application is a mixed reality utility designed for the Microsoft HoloLens. It allows users to manipulate sounds and its individual beats for an easy experience of creating music. The sounds are consisted of guitar, piano, drums, bass, and user customized sounds that can be recorded inside the application through the HoloLens built-in microphone.
 
-This project was born from an interest in Virtual, Augmented, and Mixed reality systems, as well as a passion for music. Digital synthesizers are a great way for amateurs and hobbyists to pursue their creativy interests, as well as for children and teenagers to explore music techonolgy. The goal of this project was to make a tool that would allow a user to be compeltely immersed in the music creation process, while also allowing for the exploration of mixed reality spaces.
+This project was born from an interest in virtual, augmented, and mixed reality systems, as well as a passion for music. Digital music sequencers are a great way for amateurs and hobbyists to pursue their creativy interests, as well as for children and teenagers to explore music techonolgy. The goal of this project was to make a tool that would allow a user to be compeltely immersed in the music creation process, while also allowing for the exploration of mixed reality spaces.
 
 
 ## Authors
@@ -12,6 +12,12 @@ This project was born from an interest in Virtual, Augmented, and Mixed reality 
 * Woo Jin An
 * Tilden Fernandez
 * Nicky Huynh
+
+
+## Hardware
+
+The system was build to be used with the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/), taking advantage of the onboard computer to allow users to make music anywhere, using the intuitive hand controls of the HoloLens. The music sequencer can also be used with other mixed reality systems including the [Window's Mixed Reality Headset](https://www8.hp.com/us/en/campaigns/mixedrealityheadset/overview.html).
+
 
 ## Built With:
 
@@ -27,7 +33,7 @@ This project was born from an interest in Virtual, Augmented, and Mixed reality 
 
 Windows Mixed Reality Package
 
-C#
+C# Language
 
 
 ## Functionality
@@ -57,6 +63,7 @@ C#
 - Up/Down Page
 - Customize Number of Bars
 - Clear all
+
 
 ## Acknowledgements
 
