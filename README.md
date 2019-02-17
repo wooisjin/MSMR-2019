@@ -30,8 +30,8 @@ Windows Mixed Reality Package
 C#
 
 
-####Functionality
--------------
+## Functionality
+
 - Gaze Cursor:
     A cursor is placed depending on the head position of the user.
 - Gaze Highlight
@@ -45,7 +45,7 @@ C#
 - Easy to use U.I. for fast learning
 
 
-####Buttons list:
+## Buttons list:
 - Instrument Selection Pad (Drums/Guitar/Piano/Bass/Sampler)
 - Note/Beat selection
 - Start/Pause All Sounds
