@@ -3,6 +3,8 @@ Music Sequencer Mixed Reality Software made for VTHACKS 2019
 
 This application is a mixed reality utility designed for the Microsoft HoloLens. It allows users to manipulate sounds and its individual beats for an easy experience of creating music. The sounds are consisted of guitar, piano, drums, bass, and user customized sounds that can be recorded inside the application through the HoloLens built-in microphone.
 
+This project was born from an interest in Virtual, Augmented, and Mixed reality systems, as well as a passion for music. Digital synthesizers are a great way for amateurs and hobbyists to pursue their creativy interests, as well as for children and teenagers to explore music techonolgy. The goal of this project was to make a tool that would allow a user to be compeltely immersed in the music creation process, while also allowing for the exploration of mixed reality spaces.
+
 
 ## Authors
 
@@ -28,7 +30,7 @@ Windows Mixed Reality Package
 C#
 
 
-Functionality
+####Functionality
 -------------
 - Gaze Cursor:
     A cursor is placed depending on the head position of the user.
@@ -39,11 +41,12 @@ Functionality
 - Loops up to four bars (Default to two bars)
     The music sequencer loops it's sound settings 
 - Four different instruments + eight customizable sounds
-- 
+- Sampling of custom sounds through a computer microphone
+- Easy to use U.I. for fast learning
 
 
-Buttons list:
-- Instrument Selection (Drums/Guitar/Piano/Bass/Sampler)
+####Buttons list:
+- Instrument Selection Pad (Drums/Guitar/Piano/Bass/Sampler)
 - Note/Beat selection
 - Start/Pause All Sounds
 - Start/Pause Specified Instrument
@@ -52,11 +55,8 @@ Buttons list:
 - Tempo Adjuster
 - Next/Previous Page
 - Up/Down Page
-  Maybes
-- Volume Control
 - Customize Number of Bars
-- Save/Load Functionality
-- 
+- Clear all
 
 ## Acknowledgements
 
