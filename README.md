@@ -36,8 +36,6 @@ The system was built to be used with the [Microsoft HoloLens](https://www.micros
 [C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
-## Installation:
-
 ## Functionality
 
 - Gaze Cursor:
