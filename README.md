@@ -75,3 +75,7 @@ Thank you to Microsoft for the opportunity to use their SDK and hardware!
 ## IMPORTANT
 
 Since the file size of the entire build was too big, we were unable to upload the nesscessary files to run the program. So, we included only the files needed to show the effort and the basics of functionality. All of the scripts and models in this Git are custom made by us.
+
+## Devpost
+
+https://devpost.com/software/music-sequence-mr-msmr
